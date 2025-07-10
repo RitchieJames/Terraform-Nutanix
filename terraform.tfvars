@@ -1,0 +1,11 @@
+cluster_name = "Cluster Name"
+subnet_name  = "This is the subnet to which the vm to be connected"
+user         = "Prism Central admin user"
+password     = "Password"
+endpoint     = "IP address of Prism Central"
+image_name   = "RHEL"
+image_description    = "This is the image for the RHEL deployment"
+image_url = "This is the url for the image"
+vm_cpu_socket = "This is the number of socket in  the vm"
+vm_socket = "This is the number of cpu per socket"
+
